@@ -1,7 +1,6 @@
 # ⭐ Olá, eu sou a Giovanna!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Caloura 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas   
 🔧 Explorando a linguagem C no momento  
 
 ---
