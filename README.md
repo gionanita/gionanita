@@ -1,7 +1,7 @@
 # ⭐ Olá, eu sou a Giovanna!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas   
-🔧 Explorando a linguagem C no momento  
+✏️ 18 anos - Bragança Paulista, SP
 
 ---
 
