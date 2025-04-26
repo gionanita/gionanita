@@ -15,6 +15,7 @@
 ## 📱 Vamos nos conectar?
 
 - Instagram: [@giotwx](https://instagram.com/giotwx)
+- LinkedIn: [Giovanna Lima dos Santos](https://www.linkedin.com/in/giovanna-lima-dos-santos-1b823b351/)
 
 ---
 
