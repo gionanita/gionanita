@@ -1,14 +1,15 @@
 # ⭐ Olá, eu sou a Giovanna!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas   
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 2º SEM   
 ✏️ 18 anos - Bragança Paulista, SP
 
 ---
 
 ## 🛠️ Tecnologias que estou estudando
 
-- Linguagem C
-- Algoritmos e lógica de programação
+- Python
+- SQL
+- JavaScript
 
 ---
 
