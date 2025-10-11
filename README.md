@@ -1,7 +1,7 @@
 # ⭐ Olá, eu sou a Giovanna!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 2º SEM   
-✏️ 18 anos - Bragança Paulista, SP
+✏️ 18 anos - Itanhaém, SP
 
 ---
 
@@ -9,7 +9,6 @@
 
 - Python
 - SQL
-- JavaScript
 
 ---
 
