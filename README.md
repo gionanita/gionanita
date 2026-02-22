@@ -7,7 +7,7 @@
 
 ## 🛠️ Tecnologias que estou estudando
 
-- Python
+- C++
 - SQL
 
 ---
