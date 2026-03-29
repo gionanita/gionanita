@@ -1,6 +1,6 @@
 # ⭐ Olá, eu sou a Giovanna!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 2º SEM   
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 3º SEM   
 ✏️ 19 anos - Itanhaém, SP
 
 ---
