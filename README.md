@@ -9,6 +9,7 @@
 
 - C++
 - SQL
+- Python
 
 ---
 
